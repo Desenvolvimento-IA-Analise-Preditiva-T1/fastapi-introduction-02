@@ -1,0 +1,4 @@
+{
+    "item": "Teclado Mecânico",
+    "preco": 250.00
+}
